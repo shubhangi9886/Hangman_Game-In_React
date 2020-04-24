@@ -1,0 +1,32 @@
+.button {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(16, 176, 240);
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.reset_button {
+    width: 70px;
+    height: 40px;
+    background-color: rgb(27, 27, 204);
+    border-radius: 6px;
+    color: white;
+    border: 1px solid black;
+}
+
+button:disabled{
+  background-color:red;
+  color:white;
+}
+
+.guess{
+    margin-left: 70%;
+    font-size: 20px;
+}
+
+.text {
+    font-size: 20px;
+}
